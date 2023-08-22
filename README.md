@@ -88,12 +88,3 @@ Now enjoy the project 😉.
 ## Contributions
 So you want to make an improvement or want to make a whole new feature? Well, we also want to see that how we have impacted the community or how the community can improve this project for different uses. However, as this project is a part of **Third Timathon Code Jam**, we are not allowed to make any changes to the project after the submission time ends. So, we won't be merging any pull requests. But after the jam finishes. PR's will be accepted.
 
-## Champions Clan
-We are four!
-
-- Rajvir Singh aka <a href="https://github.com/RajvirSingh1313">RajvirSingh1313</a>
-- Abdella Solomon aka <a href="https://github.com/Abdesol">Abdesol</a>
-- Dawn Saju aka <a href="https://github.com/DawnSaju">DawnSaju</a>
-- Harsh Pandey aka <a href="https://github.com/akionsight">akionsight</a>
-
-**Created by, with & for the Community**❤
